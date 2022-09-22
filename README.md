@@ -14,8 +14,6 @@ and add the following variables:
 
 -the script's location
 
--the script's location but add "\"
-
 -pingu.sh 's location
 
 -tux.sh's location
