@@ -1,6 +1,9 @@
 A GREAT TOOL FOR WEB DEVS!
+
 How to use it
+
 Windows then search "path"
+
 click on "edit the environment variables"
 then on "environment variables"
 On user variables and system variables choose "Path" then "edit"
