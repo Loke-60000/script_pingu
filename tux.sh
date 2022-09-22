@@ -9,6 +9,18 @@ read varname;
 mkdir $varname;
 cd $varname;
 
+echo "Do you want to git init?";
+echo "1 = yes 2 = no";
+read varInit;
+
+if [ $varInit  -eq  1 ]
+    then
+        echo "GIT INIT"
+        git init
+    else
+        echo "ignored"
+fi
+
 # echo "creating html index";
 touch index.html;
 echo "
