@@ -14,18 +14,12 @@ echo "
 
 echo "1 if u want with actual location and 2 if u wanna choose specific location";
 read varchoice;
-# if [1=$varchoice]; then
-#     echo "Choix 1"
-#     ./tux.sh
-# fi
-# if [2=$varchoice]; then
-#     echo "choix 2"
-#     ./pingu.sh
-# fi
 
 if [ $varchoice  -eq  1 ]
     then
+        echo "Script in actual location"
         ./tux.sh
     else
+        echo "Script in selected location"
         ./pingu.sh
 fi
