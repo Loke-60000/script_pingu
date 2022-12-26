@@ -4,7 +4,7 @@ How to use it:
 
 Step1:
 
-Windows search bar then type 'path' and click on 'edit the system environment variables...'
+on your Windows search bar type 'path' and click on 'edit the system environment variables...'
 
 ![step_one](https://user-images.githubusercontent.com/104599813/209568577-62a817d9-c556-4007-a3b7-3d4dab0a9aec.png)
 
@@ -29,11 +29,17 @@ You can now see  'user variables' and 'system variables'
 
 -projet.sh's location
 
+Step 4 :
+
 ![step_four](https://user-images.githubusercontent.com/104599813/209568726-b0dad347-c591-4a0b-9409-af571862645d.png)
 
 Click on "OK"
 
 Reboot your PC if it doesnt work.
+
+Step 5:
+
+Enjoy!
 
 ![alt text](https://repository-images.githubusercontent.com/539971186/bdedc478-e31a-4ff0-bbd1-fdc37c721e1f)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⡀⡄⣄⡀⣄⣀⡀⣀⠀⠀⢀⣠⣤⣤⣤⣤⣠⣤
