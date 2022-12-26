@@ -65,6 +65,7 @@ cd 'script's location' before typing ./projet.sh
 Step 6:
 
 Enjoy!
+
 the .ico file is there in case you wanna make a shortcut!
 
 ![alt text](https://repository-images.githubusercontent.com/539971186/bdedc478-e31a-4ff0-bbd1-fdc37c721e1f)
