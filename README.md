@@ -1,8 +1,8 @@
 A GREAT TOOL FOR WEB DEVS!
 
-How to use it
+How to use it:
 
-Windows then search "path"
+Windows search bar then type "path"
 
 click on "edit the environment variables"
 
