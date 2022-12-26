@@ -8,9 +8,9 @@ click on "edit the environment variables"
 
 then on "environment variables"
 
-On user variables and system variables choose "Path" then "edit"
+You can now see  'user variables' and 'system variables'
 
-and add the following variables:
+ on both of them: click on "Path" then "edit" and add the following variables :
 
 -the script's location
 
