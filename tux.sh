@@ -49,6 +49,7 @@ mkdir css;
 cd css;
 touch style.css;
 # echo "done!!!";
+clear;
 echo "NOOT!!!! NOOT!!!";
 echo "
 ⠀⣠⣴⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

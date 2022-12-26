@@ -57,6 +57,7 @@ cd ..;
 mkdir JS;
 touch main.js;
 # echo "done!!!";
+clear;
 echo "NOOT!!!! NOOT!!!";
 echo "
 ⠀⣠⣴⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
