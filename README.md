@@ -43,6 +43,16 @@ the only thing you have to do now is to to type ./projet.sh in your terminal but
 use 'cd location_of_the_script' or put the files in this location if you are lazy:
 C:\Users\your_name
 
+exemples:
+
+In your windows user file:
+![step_five](https://user-images.githubusercontent.com/104599813/209569897-e0f38f1b-a3f9-4d7d-a654-9cd7c9b70824.png)
+![step_five_3](https://user-images.githubusercontent.com/104599813/209570023-d68e14d0-daf0-48f3-8e14-003416994d36.png)
+In a folder:
+![step_five_2](https://user-images.githubusercontent.com/104599813/209569919-d1101352-2cc1-4752-add1-a77f2d64e7b5.png)
+![step_five_4](https://user-images.githubusercontent.com/104599813/209570160-8156214a-e89d-497b-b55d-03e13942c302.png)
+
+
 Step 6:
 
 Enjoy!
