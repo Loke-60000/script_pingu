@@ -44,13 +44,16 @@ the only thing you have to do now is to to type ./projet.sh in your terminal but
 exemples:
 
 In your windows user folder:
+
 You only need to type ./projet.sh if the script has been installed in this location 'C:\Users\your_name'
 
 ![step_five](https://user-images.githubusercontent.com/104599813/209569897-e0f38f1b-a3f9-4d7d-a654-9cd7c9b70824.png)
 ![step_five_3](https://user-images.githubusercontent.com/104599813/209570023-d68e14d0-daf0-48f3-8e14-003416994d36.png)
 
 In a folder:
+
 Use:
+
 cd 'script's location' before typing ./projet.sh
 
 ![step_five_2](https://user-images.githubusercontent.com/104599813/209569919-d1101352-2cc1-4752-add1-a77f2d64e7b5.png)
