@@ -23,6 +23,8 @@ You can now see  'user variables' and 'system variables'
 Click on "OK"
 
 Reboot your PC if it doesnt work.
+
+![alt text](https://repository-images.githubusercontent.com/539971186/bdedc478-e31a-4ff0-bbd1-fdc37c721e1f)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⡀⡄⣄⡀⣄⣀⡀⣀⠀⠀⢀⣠⣤⣤⣤⣤⣠⣤
 ⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⣀⣤⣴⣶⡿⢿⡻⢟⡻⣛⡟⡟⣷⢶⣤⣄⡀⠀⢀⠀⠠⢀⠀⢰⣿⣿⣿⣿⣿⣿
 ⠠⠈⢀⠐⠀⠂⠐⠀⠂⠐⠀⠂⢀⢂⣤⣶⣿⣿⢿⢯⣷⣹⢧⣻⣭⣳⣝⣾⣱⣏⡾⣭⣟⣿⣷⣤⡀⠂⢀⠠⢸⣿⣿⣿⣿⣿⣿
