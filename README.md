@@ -1,5 +1,7 @@
 USE THIS TOOL IF YOU WANNA SAVE TIME AS A WEB DEVS!
 
+(informations about the script are available in the wiki)
+
 How to use it:
 
 Step1:
