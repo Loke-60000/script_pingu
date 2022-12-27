@@ -37,8 +37,6 @@ Step 4 :
 
 Click on "OK"
 
-Reboot your PC if it doesnt work.
-
 Step 5:
 
 the only thing you have to do now is to to type ./projet.sh in your terminal but remember you have to be in the same location as the script or it wont work.
@@ -63,6 +61,8 @@ cd 'script's location' before typing ./projet.sh
 
 
 Step 6:
+
+Reboot your PC if it doesnt work.
 
 Enjoy!
 
